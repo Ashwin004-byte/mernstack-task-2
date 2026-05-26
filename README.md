@@ -1,16 +1,22 @@
-# React + Vite
+# MERN Stack Internship - Task 2
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Modern Frontend with React Components
 
-Currently, two official plugins are available:
+### Tools Used
+- React.js
+- Tailwind CSS
+- Vite
+- VS Code
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+### Features Implemented
+- Functional React components
+- Responsive navigation bar
+- Modern UI design
+- Tailwind CSS styling
+- Hero section with buttons
 
-## React Compiler
+### Task Outcome
+Successfully created a modern and responsive frontend interface using React and Tailwind CSS.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Learning Notes
+This task helped me understand reusable React components, responsive design, and modern frontend styling using Tailwind CSS.
